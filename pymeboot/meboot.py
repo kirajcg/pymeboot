@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from . import random
+import random
 
 
 def mean(L):
